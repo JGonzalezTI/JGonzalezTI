@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hello! Wellcome to my Github 👋 My name is Jose #
+# Hello! Wellcome to my Github 👋 #
 <div >
 <br/>
 - 🔭 Full-stack developer with 3+ years of experience designing and building scalable, high-performance web and backend applications<br/>
