@@ -2,10 +2,12 @@
 # Hello! Wellcome to my Github 👋 #
 <div >
 <br/>
-- 🔭 **Full-Stack Developer** with 3 years of experience designing and building scalable, high-performance web and backend applications.  
-- 🌱 **Proficient in backend development** and technologies such as Node.js, Express, Next.js, TypeScript, NestJS, React, and VTEX IO.  
-- 👍 **Experienced with AWS services**, including SNS, SES, Lambda functions, Amplify, and Cognito.  
-- 😍 **Developed and collaborated on** multiple integration applications between e-commerce platforms and ERP systems, as well as fintech and startup applications.  
+<ul>
+  <li>🔭 <strong>Full-Stack Developer</strong> with 3 years of experience designing and building scalable, high-performance web and backend applications.</li>
+  <li>🌱 <strong>Proficient in backend development</strong> and technologies such as Node.js, Express, Next.js, TypeScript, NestJS, React, and VTEX IO.</li>
+  <li>👍 <strong>Experienced with AWS services</strong>, including SNS, SES, Lambda functions, Amplify, and Cognito.</li>
+  <li>😍 <strong>Developed and collaborated on</strong> multiple integration applications between e-commerce platforms and ERP systems, as well as fintech and startup applications.</li>
+</ul>
 </div>
 
 <br/>
