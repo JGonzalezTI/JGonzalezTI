@@ -3,7 +3,7 @@
 <div >
 <br/>
 <ul>
-  <li>🔭 <strong>Full-Stack Developer</strong> with 3 years of experience designing and building scalable, high-performance web and backend applications.</li>
+  <li>🔭 <strong>Full-Stack Developer</strong> with 4 years of experience designing and building scalable, high-performance web and backend applications.</li>
   <li>🌱 <strong>Proficient in backend development</strong> and technologies such as Node.js, Express, Next.js, TypeScript, NestJS, React, and VTEX IO.</li>
   <li>👍 <strong>Experienced with AWS services</strong>, including SNS, SES, Lambda functions, Amplify, and Cognito.</li>
   <li>😍 <strong>Developed and collaborated on</strong> multiple integration applications between e-commerce platforms and ERP systems, as well as fintech and startup applications.</li>
